@@ -5,4 +5,5 @@ Notes:
 - main.py is main file and it can run "python3 main.py" command.
 - coordinates can be given in "values.py" file. 
 
-<img width="1728" alt="Screen Shot 2022-08-26 at 22 42 38" src="https://user-images.githubusercontent.com/1896275/186979870-328c9fd2-4c04-48a3-b0c0-be2efff98559.png">
+
+<img width="1728" alt="Screen Shot - Travelling Salesman Problem" src="https://user-images.githubusercontent.com/1896275/186982275-56a8e210-e543-4020-9802-e905a1e537e8.png">
